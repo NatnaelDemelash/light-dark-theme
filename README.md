@@ -1,3 +1,3 @@
 # Light Dark-theme
 
-![demo] (./SceenShot.png) 
+![demo] (./ScreenShot.png) 
